@@ -18,6 +18,8 @@
 
 6. 可以利用STM32主控芯片以及按键实现功能菜单的切换以及选择舵机模式
 
+7. test
+
 
 # STM32-based robotic arm
 
